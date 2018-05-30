@@ -9,7 +9,11 @@
   "engines": {
     "node": ">=6.4"
   },
-  "keywords": ["vue", "vue.js", "node"],
+  "keywords": [
+    "vue",
+    "vue.js",
+    "node"
+  ],
   "license": "MIT",
   "dependencies": {
     "axios": "~0.15.2",
@@ -19,7 +23,7 @@
     "querystring": "~0.2.0",
     "scrollmonitor": "~1.2.0",
     "vue": "~2.1.0",
-    "vue-resource": "~1.0.3"
+    "vue-resource": "^1.5.1"
   },
   "devDependencies": {
     "nodemon": "~1.11.0",
